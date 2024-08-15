@@ -53,7 +53,7 @@ The service will automatically attempt to send an email using the primary email 
 
 🐛 Troubleshooting
 Invalid Login: Ensure that you have entered the correct credentials in the .env file.
-OAuth2 Setup: If you're using Gmail and facing issues with login, consider setting up OAuth2 as described here.
+
 📄 License
 This project is licensed under the MIT License.
 
