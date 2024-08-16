@@ -14,8 +14,7 @@ This is a Node.js-based notification service that sends emails using a primary e
 notification-service/
 │
 ├── node_modules/
-├── .gitignore
-      └── .env
+├── .env
 ├── package.json
 ├── README.md
 └── src/
